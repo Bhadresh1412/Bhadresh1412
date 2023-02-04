@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhadresh D. Kashiyani</h1>
 <h3 align="center">A passionate software engineer from India.</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/114805932/216761525-db37aca8-ec93-459f-bb2f-8bc49b768799.png)
-"> 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/114805932/216761525-db37aca8-ec93-459f-bb2f-8bc49b768799.png"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhadresh1412&label=Profile%20views&color=0e75b6&style=flat" alt="bhadresh1412" /> </p>
 

@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhadresh1412&label=Profile%20views&color=0e75b6&style=flat" alt="bhadresh1412" /> </p>
 
-- 🌱 I’m currently learning **PHP,JAVA AND PYTHON.**
+- 🌱 I’m currently learning **servers,CCNA certified.**
 
 - 📫 How to reach me **kashiyanibhadresh@gmail.com**
 

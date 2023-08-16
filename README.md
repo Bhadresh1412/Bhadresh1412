@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhadresh D. Kashiyani</h1>
-<h3 align="center">A passionate networking engineer from India.</h3>
+<h3 align="center">A passionate network engineer from India.</h3>
 
 <img align="right" alt="coding" width="500" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> 
 

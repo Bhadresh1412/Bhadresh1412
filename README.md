@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bhadresh Kashiyani</h1>
-<h3 align="center">Cloud Computing | AWS Fresher | IT Student</h3>
+<h3 align="center">Cloud Computing | AWS Fresher | IT Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=500&lines=AWS+Cloud+Enthusiast;Networking+Learner;IT+Student+%7C+Fresher;Looking+for+Cloud+Internship+%26+Job" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=500&lines=AWS+Cloud+Enthusiast;Networking+Learner;IT+Fresher;Open+to+Cloud+Internship+%26+Job" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Diploma in **Computer Engineering** from RK University, Rajkot  
-- 🎓 Pursuing **B.E. in Information Technology (6th Sem)** at Atmiya College  
-- ☁️ Interested in **Cloud Computing & AWS**  
-- 🌐 Knowledge of **Networking**  
-- 📍 Looking for **Cloud / AWS Internship & Fresher Role in Gujarat**
+- ☁️ Interested in **Cloud Computing & AWS**
+- 🌐 Knowledge of **Networking fundamentals**
+- 🎯 Actively learning cloud technologies
+- 📍 Open to **Cloud / AWS Internship & Fresher Roles (India)**
 
 ---
 
@@ -27,15 +26,9 @@
 ---
 
 ## 🚀 What I'm Learning
-- AWS EC2, S3, IAM  
-- Cloud Fundamentals  
-- Networking concepts  
-
----
-
-## 📫 Connect With Me
-- 📧 Email: **kashiyanibhadresh@gmail.com**
-- 📞 Phone: 
+- AWS EC2, S3, IAM
+- Cloud fundamentals
+- Networking concepts
 
 ---
 

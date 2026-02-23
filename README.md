@@ -1,19 +1,48 @@
-<h1 align="center">Hi 👋, I'm Bhadresh D. Kashiyani</h1>
-<h3 align="center">A passionate network engineer from India.</h3>
+<h1 align="center">Hi 👋, I'm Bhadresh Kashiyani</h1>
+<h3 align="center">Cloud Computing | AWS Fresher | IT Student</h3>
 
-<img align="right" alt="coding" width="500" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhadresh1412&label=Profile%20views&color=0e75b6&style=flat" alt="bhadresh1412" /> </p>
-
-- 🌱 I’m currently learning **servers,CCNA certified.**
-
-- 📫 How to reach me **kashiyanibhadresh@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/bk_kashiyani_2110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bk_kashiyani_2110" height="25" width="35" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=500&lines=AWS+Cloud+Enthusiast;Networking+Learner;IT+Student+%7C+Fresher;Looking+for+Cloud+Internship+%26+Job" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 👨‍💻 About Me
+- 🎓 Diploma in **Computer Engineering** from RK University, Rajkot  
+- 🎓 Pursuing **B.E. in Information Technology (6th Sem)** at Atmiya College  
+- ☁️ Interested in **Cloud Computing & AWS**  
+- 🌐 Knowledge of **Networking**  
+- 📍 Looking for **Cloud / AWS Internship & Fresher Role in Gujarat**
+
+---
+
+## 🛠️ Skills
+<p>
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Networking-Basics-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-Basic-black?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Windows-OS-blue?style=for-the-badge&logo=windows"/>
+</p>
+
+---
+
+## 🚀 What I'm Learning
+- AWS EC2, S3, IAM  
+- Cloud Fundamentals  
+- Networking concepts  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: **kashiyanibhadresh@gmail.com**
+- 📞 Phone: **9106877963**
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>

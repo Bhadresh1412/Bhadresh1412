@@ -35,7 +35,6 @@
 
 ## 📫 Connect With Me
 - 📧 Email: **kashiyanibhadresh@gmail.com**
-- 📞 Phone: 
 
 ---
 

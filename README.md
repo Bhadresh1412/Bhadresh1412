@@ -1,71 +1,48 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Hi%20I'm%20Bhadresh&fontSize=38&fontAlign=50&fontAlignY=60" />
-
-<h3 align="center">Cloud Computing & AWS Enthusiast | IT Fresher</h3>
+<h1 align="center">Hi 👋, I'm Bhadresh Kashiyani</h1>
+<h3 align="center">Cloud Computing | AWS Fresher | IT Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=AWS+Cloud+Learner;Cloud+%26+Networking+Enthusiast;Looking+for+Internship+%26+Fresher+Roles;Building+Career+in+Cloud+Computing" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=500&lines=AWS+Cloud+Enthusiast;Networking+Learner;IT+Student+%7C+Fresher;Looking+for+Cloud+Internship+%26+Job" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I am an **IT fresher** with strong interest in **Cloud Computing and AWS**.  
-I enjoy learning new technologies and applying them through **hands-on practice**.  
-Currently focused on building a solid foundation in **cloud infrastructure, networking, and system basics**.
-
-🎯 **Career Goal:**  
-To start my career as a **Cloud / AWS Intern or Fresher**, gain real-world experience, and grow into a skilled cloud professional.
+- 🎓 Diploma in **Computer Engineering** 
+- 🎓 Pursuing **B.E. in Information Technology 
+- ☁️ Interested in **Cloud Computing & AWS**  
+- 🌐 Knowledge of **Networking**  
+- 📍 Looking for **Cloud / AWS Internship & Fresher Role in Gujarat**
 
 ---
 
-## ☁️ Cloud & AWS Skills
-- Amazon EC2 – Virtual servers  
-- Amazon S3 – Object storage  
-- IAM – User & permission management  
-- Cloud fundamentals & architecture basics  
-
+## 🛠️ Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,linux&theme=light" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Networking-Basics-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-Basic-black?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Windows-OS-blue?style=for-the-badge&logo=windows"/>
 </p>
 
 ---
 
-## 🌐 Networking Knowledge
-- Basics of Computer Networks  
-- TCP/IP fundamentals  
-- IP Addressing & Network concepts  
-- Understanding of troubleshooting approach  
-
-<p>
-  <img src="https://skillicons.dev/icons?i=network&theme=light" />
-</p>
+## 🚀 What I'm Learning
+- AWS EC2, S3, IAM  
+- Cloud Fundamentals  
+- Networking concepts  
 
 ---
 
-## 🛠 Tools & Environment
-- Windows OS  
-- Linux basics  
-- Command line fundamentals  
-
----
-
-## 📊 GitHub Overview
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" />
-</p>
-
----
-
-## 🚀 What I’m Looking For
-✔ Cloud / AWS Internship  
-✔ Entry-level Cloud or IT role  
-✔ Opportunity to learn, grow, and contribute  
+## 📫 Connect With Me
+- 📧 Email: **kashiyanibhadresh@gmail.com**
+- 📞 Phone: 
 
 ---
 
 <p align="center">
-  <b>“Focused on learning today, ready to deliver tomorrow.”</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=footer"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>

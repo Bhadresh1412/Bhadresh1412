@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 Diploma in **Computer Engineering** 
-- 🎓 Pursuing **B.Tech. in Information Technology 
+- 🎓 Pursuing **B.Tech. in **Information Technology **
 - ☁️ Interested in **Cloud Computing & AWS**  
 - 🌐 Knowledge of **Networking**  
 - 📍 Looking for **Cloud / AWS Internship & Fresher Role in Gujarat**

@@ -1,235 +1,273 @@
 <div align="center">
 
-# 👋 Hey, I'm Bhadresh Kashiyani
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;Figma+Designer;Frontend+Developer;Cloud+%26+AWS+Enthusiast;Creating+Simple+%26+Intuitive+Experiences" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=BHADRESH%20KASHIYANI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%7C%20Frontend%20Developer%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=18" />
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Bhadresh+Kashiyani;I+Design+Digital+Experiences+%F0%9F%8E%A8;UI%2FUX+Designer+%7C+Figma+Creator+%F0%9F%96%A5%EF%B8%8F;Frontend+Developer+%7C+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Beautiful+Interfaces+%E2%9C%A8" />
+
+<br><br>
+
+<a href="https://bk21.netlify.app">
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-Visit%20My%20Portfolio-00D9FF?style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/bhadresh-kashiyani">
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-Connect-0A66C2?style=for-the-badge" />
+</a>
+
 <a href="https://github.com/Bhadresh1412">
-<img src="https://komarev.com/ghpvc/?username=Bhadresh1412&label=Profile%20Views&color=36BCF7&style=flat" />
+<img src="https://img.shields.io/badge/%F0%9F%90%99%20GITHUB-Explore-181717?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/Bhadresh1412?tab=followers">
-<img src="https://img.shields.io/github/followers/Bhadresh1412?label=Followers&style=flat&color=36BCF7" />
-</a>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Bhadresh1412&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 Who Am I?
 
-I'm **Bhadresh Kashiyani**, a passionate and detail-oriented **UI/UX Designer** who enjoys creating intuitive, clean and user-friendly digital experiences.
+```javascript
+const bhadresh = {
 
-My focus is on understanding user needs, creating structured user flows, designing wireframes and building interactive prototypes with **Figma**.
+    name: "Bhadresh Kashiyani",
 
-I also have a technical background in **Frontend Development, AWS Cloud Computing, Linux, MySQL and basic Cyber Security**.
+    role: [
+        "UI/UX Designer",
+        "Frontend Developer",
+        "Cloud Enthusiast"
+    ],
 
-> 🎯 **Goal:** Create simple, meaningful and user-friendly digital experiences.
+    design: [
+        "Figma",
+        "Wireframing",
+        "Prototyping",
+        "User Flows",
+        "Dashboard Design"
+    ],
+
+    technologies: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Django"
+    ],
+
+    cloud: [
+        "AWS",
+        "EC2",
+        "S3",
+        "IAM"
+    ],
+
+    database: [
+        "MySQL"
+    ],
+
+    currently: "Creating clean & user-friendly digital experiences",
+
+    goal: "Turn ideas into meaningful products ✨"
+};
+```
 
 ---
 
-## 🎨 UI/UX Design
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma" />
+## 🎨 I DESIGN. I BUILD. I CREATE.
+
+<img src="https://user-images.githubusercontent.com/74038190/216649426-3f6f7b5e-2a9d-4a1d-9c5f-0f7c5e7e4f3a.gif" width="500">
+
+### ✨ UI/UX is not just about how it looks...
+
+### It's about **how it feels to use.**
 
 </div>
 
-### What I Do
-
-* 🎨 UI/UX Design
-* 🧩 Wireframing
-* 🔄 User Flows
-* 🖥️ Dashboard Design
-* 📱 Responsive Layouts
-* 🧱 Design Systems
-* 🔗 Interactive Prototypes
-* 👤 User-Centered Design
-* 📊 Visual Hierarchy
-
 ---
 
-## 💻 Tech Stack
+# 🚀 Featured Projects
 
 <div align="center">
 
-### Frontend
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery" />
+<td width="50%">
 
-### Programming / Backend
+<h2 align="center">🎁 GodsPlan</h2>
 
-<img src="https://skillicons.dev/icons?i=python,django" />
+<p align="center">
+<strong>Mystery Box Platform</strong>
+</p>
 
-### Cloud & Infrastructure
+<p align="center">
+🎨 UI/UX Design • Figma
+</p>
+
+<br>
+
+<p>
+✨ Intuitive user interface<br>
+🔄 Structured user flows<br>
+📱 Responsive layouts<br>
+🧩 Consistent components<br>
+🧭 Smooth navigation<br>
+🎯 User-focused interactions
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/UI%2FUX-Figma-FF61F6?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Upcoming-00D9FF?style=flat-square" />
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h2 align="center">🌉 FlowBridge</h2>
+
+<p align="center">
+<strong>Admin • Agent • Partner Panels</strong>
+</p>
+
+<p align="center">
+🎨 UI/UX Design • Figma
+</p>
+
+<br>
+
+<p>
+🖥️ Admin Dashboard<br>
+👤 Agent Panel<br>
+🤝 Partner Panel<br>
+🔄 User Flows<br>
+📊 Information Architecture<br>
+📱 Responsive Interface
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Dashboard-Design-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Figma-Design-FF61F6?style=flat-square" />
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🧠 My Design Process
+
+<div align="center">
+
+```text
+       💡 IDEA
+          │
+          ▼
+   🔍 USER RESEARCH
+          │
+          ▼
+      📝 WIREFRAME
+          │
+          ▼
+     🎨 UI DESIGN
+          │
+          ▼
+    🔗 PROTOTYPE
+          │
+          ▼
+      🧪 TESTING
+          │
+          ▼
+      🚀 PRODUCT
+```
+
+</div>
+
+---
+
+# 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🎨 Design
+
+<img src="https://skillicons.dev/icons?i=figma,canva" />
+
+<br><br>
+
+### 💻 Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,python,django" />
+
+<br><br>
+
+### ☁️ Cloud & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=aws,linux" />
 
-### Database & Tools
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,figma,canva" />
+### 🗄️ Database & Version Control
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github" />
 
 </div>
 
 ---
 
-## ☁️ Cloud & AWS
-
-I have practical exposure to **AWS cloud services and cloud architecture fundamentals**.
-
-```text
-AWS
- ├── EC2
- ├── S3
- ├── IAM
- └── Cloud Computing Fundamentals
-```
-
-I have also worked with:
-
-* ☁️ Cloud deployment concepts
-* 💾 Storage
-* 🔐 IAM & access control
-* 🖥️ Linux / Ubuntu
-* 🌐 Basic networking
-* 🔒 Cyber security fundamentals
-
----
-
-## 🚀 Featured Projects
-
-### 🎁 GodsPlan — Mystery Box Platform
-
-**UI/UX Design | Figma**
-
-Designed an intuitive and engaging Mystery Box platform with a strong focus on usability and visual experience.
-
-**Highlights**
-
-* 🎨 Complete UI design in Figma
-* 🔄 User flows
-* 📱 Responsive layouts
-* 🧩 Consistent UI components
-* 🧭 Smooth navigation
-* 📊 Strong visual hierarchy
-* ✨ User-friendly interactions
-
-> 🚧 Upcoming platform — Soon to be live.
-
----
-
-### 🌉 FlowBridge — Admin, Agent & Partner Panels
-
-**UI/UX Design | Figma**
-
-Designed structured dashboards and interfaces for different user roles.
-
-```text
-                    FlowBridge
-                        │
-          ┌─────────────┼─────────────┐
-          │             │             │
-       Admin          Agent        Partner
-        Panel          Panel         Panel
-```
-
-**Highlights**
-
-* 🖥️ Admin Dashboard
-* 👤 Agent Panel
-* 🤝 Partner Panel
-* 🔄 User Flow Design
-* 🧩 Consistent UI Components
-* 📱 Responsive Layouts
-* 📊 Clear Information Presentation
-* 🧭 Easy Navigation
-
----
-
-## 💼 Experience
-
-### ☁️ Cloud Architect Intern
-
-**CloudFolks Hub**
-
-`May 2026 – Jun 2026`
-
-* Successfully completed a **120-hour internship**.
-* Worked with Cloud Architecture and AWS technologies.
-* Gained practical exposure to cloud computing concepts.
-* Learned deployment workflows and AWS services.
-* Worked on practical assignments and problem-solving tasks.
-
-### ☁️ Cloud Architect Intern
-
-**CloudFolks Hub**
-
-`Dec 2023 – Apr 2024`
-
-* Gained hands-on experience with AWS cloud services.
-* Worked with **EC2, S3 and IAM**.
-* Learned cloud infrastructure fundamentals.
-* Participated in practical assignments related to:
-
-  * Cloud deployment
-  * Storage
-  * Security
-
----
-
-## 🎓 Education
-
-🎓 **Bachelor of Technology — Information Technology**
-Atmiya University
-**Pursuing**
-
-🎓 **Diploma — Computer Engineering**
-RK University
-**CGPA: 6.41**
-
-🏫 **SSC**
-Panchshil School
-**Percentage: 65%**
-
----
-
-## 🧠 Skills
+# ☁️ Cloud Journey
 
 <div align="center">
 
-| Category       | Skills                                                 |
-| -------------- | ------------------------------------------------------ |
-| 🎨 UI/UX       | Figma, Wireframing, Prototyping, User Flows            |
-| 💻 Web         | HTML, CSS, JavaScript, jQuery                          |
-| 🐍 Programming | Django — Basics                                        |
-| ☁️ Cloud       | AWS, EC2, IAM, S3                                      |
-| 🗄️ Database   | MySQL                                                  |
-| 🐧 OS          | Linux, Ubuntu                                          |
-| 🌐 Networking  | IP Addressing, Networking Basics                       |
-| 🔐 Security    | Authentication, Authorization, Access Control          |
-| 🛠️ Tools      | Git, GitHub, Canva, AWS Console                        |
-| 🤝 Soft Skills | Problem Solving, Teamwork, Communication, Adaptability |
+<img src="https://skillicons.dev/icons?i=aws" width="80"/>
+
+### AWS
+
+`EC2` • `S3` • `IAM`
 
 </div>
 
+```text
+                     ☁️ AWS
+                       │
+          ┌────────────┼────────────┐
+          │            │            │
+        EC2           S3           IAM
+          │            │            │
+     Computing      Storage      Security
+          │            │            │
+          └────────────┼────────────┘
+                       │
+                       ▼
+                 🚀 Cloud Apps
+```
+
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhadresh1412&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Bhadresh1412&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhadresh1412&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhadresh1412&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
 
----
-
-## 🔥 GitHub Streak
+<br>
 
 <div align="center">
 
@@ -239,31 +277,101 @@ Panchshil School
 
 ---
 
-## 📈 Contribution Graph
+# 🐍 My Contribution Journey
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhadresh1412&theme=tokyo-night&hide_border=true" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 💼 Experience
+
+<div align="center">
+
+### ☁️ Cloud Architect Intern
+
+**CloudFolks Hub**
+
+`May 2026 → June 2026`
+
+`120 Hours Internship`
+
+AWS • Cloud Architecture • Deployment • Problem Solving
+
+<br>
+
+### ☁️ Cloud Architect Intern
+
+**CloudFolks Hub**
+
+`December 2023 → April 2024`
+
+AWS • EC2 • S3 • IAM • Cloud Infrastructure
+
+</div>
+
+---
+
+# 🎓 Education
+
+<div align="center">
+
+|         🎓 Qualification        |    🏫 Institute   | 📊 Result |
+| :-----------------------------: | :---------------: | :-------: |
+| B.Tech — Information Technology | Atmiya University |  Pursuing |
+|  Diploma — Computer Engineering |   RK University   | 6.41 CGPA |
+|               SSC               |  Panchshil School |    65%    |
+
+</div>
+
+---
+
+# ⚡ What I Bring
+
+<div align="center">
+
+<table>
+
+<tr>
+<td align="center">🎨<br><b>Creative Design</b><br>Clean & modern interfaces</td>
+<td align="center">🧠<br><b>Problem Solving</b><br>User-focused solutions</td>
+<td align="center">💻<br><b>Development</b><br>Frontend fundamentals</td>
+</tr>
+
+<tr>
+<td align="center">☁️<br><b>Cloud</b><br>AWS fundamentals</td>
+<td align="center">🤝<br><b>Teamwork</b><br>Collaborative mindset</td>
+<td align="center">🚀<br><b>Learning</b><br>Always improving</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/bhadresh-kashiyani">
-<img src="https://img.shields.io/badge/LinkedIn-Bhadresh%20Kashiyani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Bhadresh%20Kashiyani-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://github.com/Bhadresh1412">
-<img src="https://img.shields.io/badge/GitHub-Bhadresh1412-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Bhadresh1412-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://bk21.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-bk21.netlify.app-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-bk21.netlify.app-00D9FF?style=for-the-badge&logo=googlechrome" />
 </a>
+
+<br><br>
+
+📧 **[kashiyanibhadresh@gmail.com](mailto:kashiyanibhadresh@gmail.com)**
 
 </div>
 
@@ -271,8 +379,12 @@ Panchshil School
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### 💙 Thanks for stopping by!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+### ⭐ If you like my work, feel free to explore my repositories.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer" />
 
 </div>
